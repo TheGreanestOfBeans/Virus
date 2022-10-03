@@ -1,0 +1,1 @@
+alert("ALERT VIRUS DETECTED. Please remove computer from the network! -- Chrome OS Antivirus")
